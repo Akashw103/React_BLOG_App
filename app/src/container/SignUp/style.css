@@ -1,0 +1,36 @@
+.body{
+    margin: auto;
+    text-align: center;
+}
+
+.form-group{
+ margin-top: 10px;
+ display: block;
+ 
+}
+
+.form-control {
+    min-width: 18em;
+    height: 37px;
+    padding: 0px 10px;
+    font-size: 16px;
+    background-color: #f3f3f3;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 31px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: aqua;
+    margin-top: 6px;
+    margin-left: 5px;
+    min-width: 15em;
+    height: 37px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 0;
+}
+    

@@ -1,0 +1,81 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    padding: 10px 0;
+    color: #565673;
+}
+
+.navbar ul{
+    margin: 0 0;
+    padding:10px 0;
+
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar ul li a{
+    float: left;
+    display: block;
+    color: rgb(117, 116, 116);
+    text-align: center;
+    padding: 12px 13px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 75px;
+    
+}
+.navbarMenu a:hover{
+    color: #6ec2c5;
+    background-color: #e7e7e7; 
+}
+.logo{
+    text-align: center;
+}
+.logo a{
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+    color: #333;
+}
+.heading-vertical {
+    font-size: 40px;
+    font-weight: 450;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    position: relative;
+    top: 16px;
+}
+.heading-bold{
+    font-size: 70px;
+    
+}
+@media screen and (max-width:320px){
+    .navbarMenu {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+    button{
+        position: relative;
+        top: -20px;
+        left: 90px;
+        font-size: 25px;
+        background: white;
+        text-decoration: white;
+        
+    }
+    .heading-vertical{
+        font-size: 35px; ;
+        position: relative;
+        left: -102px;
+        top: 4px;
+    }
+    .heading-bold{
+        font-size: 60px;
+        position: absolute;
+        left: 50px;
+        top: -2px;
+        
+        
+    }
+}
