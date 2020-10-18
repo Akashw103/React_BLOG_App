@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "blogImage": "./images/internet.jpg",
+        "title": "The Internet Is Built on ‘Intermediaries’ – They Should Be Protected",
+        "content": "Now is not the time to be careless with laws that could harm the Internet we rely on more than ever in our day to day lives.Policymakers owe it to the billions of users around world that rely on the Internet for work, education, and daily activities..",
+        "date": "UPDATED: September 14 2020"
+    },
+    {
+        "id": 2,
+        "blogImage": "./images/Google.jpg",
+        "title": "US Senate panel moves to compel CEOs of Facebook, Google, and Twitter to testify",
+        "content":"The Senate Commerce Committee authorized subpoenas for Facebook CEO Mark Zuckerberg, Sundar Pichai of Google and Twitter's Jack Dorsey to force them to appear at a planned hearing if they do not agree to do so voluntarily.",
+        "date": " UPDATED: September 14 2020"
+    },
+    {
+        "id": 3,
+        "blogImage": "./images/apple.jpg",
+        "title": "Apple's legal battle with Epic Games starts for real today, could alter app store policies",
+        "content": "The legal fight between Apple and Epic Games kicks into full gear on Monday with decisions that will influence the future of app stores in the US and how the world's largest technology platforms make money from developers.",
+        "date": "UPDATED: September 14 2020"
+    },
+    {
+        "id": 4,
+        "blogImage": "./images/microsoft.jpg",
+        "title": "Microsoft Surface Laptop Go With 12.5-Inch Display, Revamped Surface Pro X to Launch on October 1: Report",
+        "content": "Microsoft Surface Laptop Go with 12.5-inch display and Microsoft Surface Pro X with upgraded internals may debut on Thursday October  A report states that Microsoft has plans to unveil......",
+        "date": "UPDATED: September 15 2020"
+    },
+    {
+        "id": 5,
+        "blogImage": "./images/nvdia.jpg",
+        "title": "Nvidia GeForce RTX 3080 Founders Edition Review",
+        "content": "Several years sometimes pass between major generation refreshes,and improvements in performance. It's now been almost exactly two years since Nvidia launched its GeForce RTX 20 lineup, the GeForce RTX 3090, the GeForce RTX 3080, and the GeForce RTX 3070.",
+        "date": "UPDATED: 16 September 2020"
+    },
+    {
+        "id": 6,
+        "blogImage": "./images/computerx.jpg",
+        "title": "Computex 2019: AMD, Intel, Asus Bring the Energy Back to PCs and Hardware",
+        "content": "Computex, the world's biggest computer hardware trade show, has been in somewhat of a slump for the past few years. As excitement has shifted out of the PC hardware arena towards smartphones and similar gadgets, I've seen the show reduce in size,...",
+        "date": "UPDATED: 7 june 2019"
+    },
+    {
+        "id": 7,
+        "blogImage": "./images/internet.jpg",
+        "title": "The Internet Is Built on ‘Intermediaries’ – They Should Be Protected",
+        "content": "Now is not the time to be careless with laws that could harm the Internet we rely on more than ever in our day to day lives.Policymakers owe it to the billions of users around world that rely on the Internet for work, education, and daily activities..",
+        "date": "UPDATED: 14 September 2020"
+    },
+    {
+        "id": 8,
+        "blogImage": "./images/intel_evo.webp",
+        "title": "Intel Evo: What to Expect from New Ultra-Slim Laptops Launching Later This Year",
+        "content": "Laptops from multiple manufacturers hitting the market later this year will bear Intel's new ‘Evo' branding, which is meant to signify that they are premium ultraportables that have gone through extensive testing and validation at the design stage.",
+        "date": "UPDATED: 11 September 2020"
+    }
+]

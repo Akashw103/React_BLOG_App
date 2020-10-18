@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "blogImage": "./images/bigbalexa.jpg",
+        "title":"Amitabh Bachchan Becomes The First Celebrity Voice On Amazon Alexa In India",
+        "content":"Megastar Amitabh Bachchan has been roped in as Alexa's first celebrity voice in India. To speak to the 77-year-old Bollywood star, users will have to say “Alexa, Say Hello to Mr. Amitabh Bachchan”. In 2019, Samuel L Jackson became the first-ever celebrity voice to collaborate with Amazon.",
+        "date":"14 September, 2020"
+        
+    },
+    {
+        "id":2,
+        "blogImage": "./images/Farhan.jpg",
+        "title":"Farhan Akhtar: Please stop being so gullible",
+        "content":"Farhan Akhtar responds after his name was dragged in by a new channel who claims him of hiring late actor Sushant Singh Rajput's cook Keshav.Farhan took to his Twitter account to set the record straight. Keshav is said to have given Rajput a glass of juice hours before the actor's death",
+        "date":"02 October, 2020 09:56 IST"
+    },
+    {
+        "id":3,
+        "blogImage":"./images/sanju-bapu.jpg",
+        "title":"Gandhi Jayanti: Sanjay Dutt Shares Video From Lage Raho Munna Bhai, Writes 'Happy Birthday Bapu",
+        "content":"Sanjay Dutt went nostalgic on the occasion of Gandhi Jayanti.  The actor went took a trip down memory lane and talked about what is probably one the most iconic films in Bollywood. It’s none other than ‘Lage Raho Munna Bhai",
+        "date":"02 October, 2020 09:00"
+    },
+    {
+        "id":4,
+        "blogImage":"./images/Mission.jpg",
+        "title":"Mission Bell Bottom Accomplished, The Next Stop On Akshay Kumar's Itinerary Is...",
+        "content":"Akshay Kumar, yet again, confirmed the current status of Mission Bell Bottom and it reads accomplished. The 53-year-old actor had flown into UK in August, when the shooting of Bell Bottom began. On September 1, 40 something days later, Akshay Kumar tweeted that Bell Bottom is complete",        
+        "date":"02 October, 2020 4:53 pm"
+    },
+    {
+        "id":5,
+        "blogImage":"./images/akshay.jpg",
+        "title":"Akshay Kumar's Sooryavanshi Not Releasing On Diwali, '83 May Be Postponed Too",
+        "content":"Looks like Akshay Kumar's much-awaited cop drama Sooryavanshi has been postponed again. On Thursday Reliance Entertainment Group CEO Sibashish Sarkar told news agency PTI: One thing is clear we are not releasing any film on Diwali.",
+        "date":"02 October, 2020 4:53 pm IST"
+    },
+    {
+        "id":6,
+        "blogImage":"./images/mirzapur.jpg",
+        "title":"Mirzapur,and More: October 2020 Guide to Netflix, Disney+ Hotstar, and Prime Video",
+        "content":"A lot is happening in October. We've the return of gun-toting Mirzapur, Baby Yoda in The Mandalorian, zombie horror The Walking Dead, and futuristic sci-fi Star Trek: Discovery to look forward to. and  Nawazuddin Siddiqui, Nicole Kidman, Adam Sandler, Bill Murray, and Ethan Hawke.",
+        "date":"30 September 2020 18:08 IST"
+    },
+    {
+        "id":7,
+        "blogImage":"./images/abhishek.jpg",
+        "title":"Abhishek Bachchan's Response To Troll Who Called Him 'Jobless'. Mic Drop",
+        "content":"Abhishek Bachchan recently shut down a troll, who attempted to shame his career, with dignity and grace. On Wednesday, as part of the Unlock 5 guidelines, the government gave the green signal to cinema halls",
+        "date":"01 October , 2020 11:08 am IST"
+    },
+    {   "id":8,
+        "blogImage":"./images/War-turns.jpg",
+        "title":"Siddharth Anand On War: We Had Two Action Superstars, We Had To Set A Benchmark!",
+        "content":"WAR is an all-time historic blockbuster that set the box office on fire in 2019 and became the highest-grossing film of the year. Directed by Siddharth Anand, the film starred two of the biggest action superstars of the country Hrithik Roshan and Tiger Shroff in an adrenaline-pumping face off",
+        "date":"02 October , 2020 11:08 am IST"
+    }
+  
+  
+  
+  
+  
+  
+  
+]
